@@ -17,4 +17,4 @@
 | Cervantes Esponda, Jamilet Marie | jamilet.cervantes@upch.pe | 
 | Cerna Quispe, Alessia Mercedes | alessia.cerna@upch.pe | 
 | Palma Araujo, Gloria Cecilia | gloria.palma@upch.pe | 
-| Norabuena Vicencio, Sebastian Alberto | sebastian.norabuena@gmial.com | 
+| Norabuena Vicencio, Sebastian Alberto | sebastian.norabuena@upch.pe | 
