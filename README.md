@@ -1,15 +1,15 @@
-# 👋 Bienvenidos al repositorio del Grupo Lunitas.
+# Bienvenidos al repositorio del Grupo Lunitas.
 
 - Curso: Introducción a Señales Biomédicas
 - Proyecto: 
 
-## ✍️ Profesores del curso
+## Profesores del curso
 
 - Moises Stevend Meza Rodriguez
 - Jose Alonso Cáceres del Aguila
 - Umbert Lewis De La Cruz Rodriguez
 
-## 👥 Integrantes del proyecto
+## Integrantes del proyecto
   
 | Integrantes | Correo electrónico | 
 | :-------: | :-------: | 
